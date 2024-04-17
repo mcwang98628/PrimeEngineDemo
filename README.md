@@ -11,7 +11,7 @@ Basic animation blending system
 - blending additive animation
 - https://youtu.be/ArjRgsFhK24
 
-- Basic UI system
+Basic UI system
 - Button with different textures, sizes, and texts
 - Button group to keep buttons aligned
 - Menu that can control pause/resume and exit
