@@ -29,3 +29,6 @@ https://github.com/mcwang98628/PrimeEngineDemo/assets/93032263/600c829d-e5a3-439
 
 https://github.com/mcwang98628/PrimeEngineDemo/assets/93032263/00142ecc-5cf0-47cb-8195-e79087976e66
 
+Full gameplay demo combining gameplay, particle system, and UI system
+
+- https://youtu.be/MxYhKUujXJQ
